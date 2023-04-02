@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&family=Satisfy&display=swap');
+
+body{
+    background-color: rgb(238, 211, 171);
+}
+
+.heading{
+    text-align: center;
+}
+
+.h3{
+    color: rgb(41, 35, 33);
+    font-family: 'Russo One', sans-serif;
+    font-size: 5rem;
+}
+
+.main{
+    border: 2px solid rgb(138, 119, 96); 
+    width: 75%; 
+    margin: 0 auto;
+}
+
+.main div{
+    width: 200px; 
+    height: 200px; 
+    border: 1px solid rgb(177, 90, 19); 
+    border-radius: 50%; 
+    margin: 2rem auto;
+}
+
+#red{
+    border-color: rgb(177, 90, 19);
+}
+
+#green{
+    border-color: rgb(177, 90, 19);
+}
+
+#blue{
+    border-color: rgb(177, 90, 19);
+}
+
+
+.Vester{
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 1rem;
+    color: rgb(87, 67, 42);
+}
